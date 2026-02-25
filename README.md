@@ -28,17 +28,17 @@ export default defineConfig({
 ```
 
 # Styled Components
-
+```
 npm i styled-components
-
+```
 # React router
-
+```
 npm i react-router-dom@6
-
+```
 # Reaact icons
-
+```
 npm i react-icons
-
+```
 # Supabase
 
 ```
@@ -52,5 +52,22 @@ npm i @tanstack/react-query@4
 ```
 
 # Devtools (like redux store)
-
+```
 npm i @tanstack/react-query-devtools
+```
+# Date functions
+```
+npm i date-fns
+```
+# React hot toast 
+```
+npm i react-hot-toast
+```
+
+# React Hooks form
+
+npm i react-hook-form@7
+
+https://supabase.com/docs/reference/javascript/installing
+
+https://supabase.com/docs/reference/javascript/storage-from-upload
